@@ -1,0 +1,14 @@
+C:\Users\anton\source\repos\Tarea1y2\Tarea1y2\obj\Debug\net8.0\Tarea1y2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\Tarea1y2\Tarea1y2\obj\Debug\net8.0\Tarea1y2.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\Tarea1y2\Tarea1y2\obj\Debug\net8.0\Tarea1y2.AssemblyInfo.cs
+C:\Users\anton\source\repos\Tarea1y2\Tarea1y2\obj\Debug\net8.0\Tarea1y2.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\Tarea1y2\Tarea1y2\bin\Debug\net8.0\Tarea1y2.exe
+C:\Users\anton\source\repos\Tarea1y2\Tarea1y2\bin\Debug\net8.0\Tarea1y2.deps.json
+C:\Users\anton\source\repos\Tarea1y2\Tarea1y2\bin\Debug\net8.0\Tarea1y2.runtimeconfig.json
+C:\Users\anton\source\repos\Tarea1y2\Tarea1y2\bin\Debug\net8.0\Tarea1y2.dll
+C:\Users\anton\source\repos\Tarea1y2\Tarea1y2\bin\Debug\net8.0\Tarea1y2.pdb
+C:\Users\anton\source\repos\Tarea1y2\Tarea1y2\obj\Debug\net8.0\Tarea1y2.dll
+C:\Users\anton\source\repos\Tarea1y2\Tarea1y2\obj\Debug\net8.0\refint\Tarea1y2.dll
+C:\Users\anton\source\repos\Tarea1y2\Tarea1y2\obj\Debug\net8.0\Tarea1y2.pdb
+C:\Users\anton\source\repos\Tarea1y2\Tarea1y2\obj\Debug\net8.0\Tarea1y2.genruntimeconfig.cache
+C:\Users\anton\source\repos\Tarea1y2\Tarea1y2\obj\Debug\net8.0\ref\Tarea1y2.dll
