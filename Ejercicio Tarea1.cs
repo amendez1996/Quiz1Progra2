@@ -64,7 +64,7 @@ class Program
         }
     }
 
-    //nuevo metodo para mostrar todos los empleados guardados
+    //metodo para mostrar todos los empleados guardados
     static void MostrarTodos(string[] nombres, string[] cedulas, float[] netos, int total)
     {
         Console.WriteLine("\n Lista de empleados registrados ");
